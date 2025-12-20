@@ -22,7 +22,6 @@ box.style.flexDirection = "column";
 // INPUT CONTAINER
 const inputbox = document.createElement("div");
 inputbox.style.padding = "25px 30px";
-inputbox.style.backgroundColor = "pink";
 
 // INPUT
 const input = document.createElement("input");
